@@ -1,0 +1,32 @@
+6.1 
+127 
+5008 Nbacka Archangela
+5595 Jbacki Marsjan 
+6.2
+74
+5010 Kbacki Bernard
+5576 Bbacka Winicja
+6.3
+Myslenie komputacyjne 36
+ECDL Advanced 71
+ECDL Base 61
+Edytor 84
+Arkusz kalkulacyjny 82
+Baza danych 74
+Grafika mened¿erska i prezentacyjna 48
+Technologie informacyjne - wstêp 75
+Algorytmy w praktyce 71
+Programowanie obiektowe - wstep 77
+Podstawy programowania - Java 59
+Programowanie w jezyku Python 84
+Programowanie w jezyku C++ 76
+Programowanie w VBO 87
+Jezyk SQL 33
+6.4
+83
+5008 Nbacka Archangela
+5593 Jbacka Taleja
+6.5
+90
+5003 Pbacki Agrypin
+5588 Abacka Sexta
