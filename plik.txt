@@ -1,0 +1,142 @@
+X0010
+1. W zakres miernictwa wchodzi:
+a) weryfikacja koncepcji praw przyrody
+b) analiza rozwoju techniki
+c) technika porównywania wartoœci mierzonej ze wzorcem
+d) wzorowanie siê na zjawiskach naturalnych
+
+X0100
+2. W pomiarach wykorzystuje siê modele:
+a) aparatury i funkcji matematycznych
+b) badanych obiekt obiektów i mierników
+c) procedur obliczeniowych i rynku zbytu
+d) etapów poznawania rzeczywistoœci
+
+X0100
+9. Kompensacyjna metoda pomiarowa wykorzystuje:
+a) Kompensacjê temperaturow¹ wzorca
+b) Wzorzec regulowany
+c) Kompensacjê temperaturow¹ detektora
+d) Wzorzec sta³y
+
+X0001
+4. Uk³ad jednostek obejmuje:
+a) zdefiniowan¹ prêdkoœæ œwiat³a
+b) modele matematyczne wzorców
+c) uœrednione wzorce naturalne
+d) Wielkoœci podstawowe i pochodne
+
+X1000
+5. Etalon to:
+a) Wzorzec pierwotny
+b) Bon (talon) typu E
+c) Wzorzec wtórny
+d) Po³¹czenie metal-jon
+
+X0100
+3. Pomiarowi towarzyszy:
+a) zwiêkszanie entropii informacji
+b) przewa¿anie noœnika informacji
+c) transport informacji z odbiornika do Ÿród³a
+d) transport entropii z odbiornika do Ÿród³a
+
+X100000
+10. Wartoœæ b³êdu pomiaru:
+a) Nie jest znana
+b) Jest znana i równa róznicy miedzy wynikiem pomiaru i wartoscia prawdziwa
+c) Nie jest liczb¹
+d) Jest liczb¹ zapisywana jako przedzia³
+e) Jest liczb¹ obliczana jako przedzia³
+f) Jest znana i wynosi x-x0
+X001000
+6. Wzorzec pierwotny ampera budowany jest jako:
+a) Dwa równoleg³e nieskoñczone d³ugie przewody w prózni
+b) Polaczenie rezystora wzorcowego i zródla napiecia
+c) Waga pr¹dowa
+d) Zrównowa¿ony mostek Westona
+e) Dwa rownolegle nieskonczenie dlugie przewody
+f) Przewody o pomijalnie malej dlugosci umieszczone w prozni
+X0100
+7. Wzorzec pierwotny rezystancji zawiera:
+a) Z³¹cze Josephsona
+b) P³ytkê pó³przewodnikow¹ w sta³ym polu magnetycznym
+c) P³ytkê pó³przewodnikow¹ w sta³ym polu elektromagnetycznym
+d) Wzorzec kwantu
+
+X001000
+8. W bezpoœrednich metodach pomiarowych:
+a) Wynik pomiaru podawany jest bezpoœrednio
+b) Wynik pomiaru zale¿y bezpoœrednio od wartosci wzorca
+c) Wielkoœæ porównywana i wzorcowa s¹ tego samego rodzaju
+d) Wielkoœæ porównywana i mierzona s¹ tego samego rodzaju
+e) Wynik pomiaru zale¿y bezpoœrednio od wychylenia przyrzadu
+f) Wielkoœæ porównywana i mierzona s¹ tego samego typu
+X0001
+11. Na niedok³adnoœæ pomiarów poœrednich wp³ywa m. in.:
+a) B³¹d numeryczny przetwarzania
+b) Poœrednictwo w przekazywaniu wyniku
+c) Wyeliminowanie pomiarów bezpoœrednich
+d) Niedok³adnoœæ wykorzystanego modu³u matematycznego
+
+X00010
+12. Przedzia³ ufnoœci okreœlony jest przez:
+a) Wartoœæ b³êdu granicznego
+b) Prawdopodobienstawo popelnienia bledu grubego
+c) Zaufanie do wskazanej wartoœci mierzonej
+d) Prawdopodobieñstwo znalezienia w nim wartoœci prawdziwej
+e) Wartosc bledu grubego
+X0001
+13. Wp³yw b³êdów przypadkowych mo¿na zredukowaæ przez:
+a) Staranne wykonanie pomiarów
+b) wykonanie pojedynczego pomiaru i obliczenie b³êdu granicznego
+c) Wykonanie pojedynczego pomiaru i obliczenie b³êdu granicznego
+d) Okreœlenie serii pomiarów i obliczenie wartoœci œredniej
+
+X0001
+14. Ostatecznym wynikiem pomiaru jest:
+a) Liczba odczytana z miernika
+b) B³¹d pomiaru
+c) Wartoœæ prawdziwa mierzonej wartoœci
+d) Przedzia³ zawieraj¹cy wartoœæ prawdziwa
+
+X1000
+15. Stopieñ przetwarzania to:
+a) Zjawisko elementarne opisywane jednym równaniem matematycznym
+b) Model matematyczny przetwarzania w mierniku
+c) Przetwornik A/C
+d) Przetwornik stopniowo ca³kuj¹cy
+
+X1000
+16. Cech¹ charakterystyczn¹ przewa¿ania dynamicznego jest:
+a) Zale¿noœæ wyjœcia od stanu w przesz³oœci
+b) Niezale¿noœæ wyjœcia od stanu wejœcia w przesz³oœci
+c) Dynamiczna zmiennoœæ wejœcia w czasie
+d) Dynamiczna zmiennoœæ wyjœcia w czasie
+
+X0100
+17. Czujnikiem nazywamy:
+a) Element pozostaj¹cy poza obudow¹ miernika
+b) Przetwornik maj¹cy bezpoœredni kontakt z wielkoœci¹ mierzon¹
+c) Element przetwarzaj¹cy wielkoœæ wejœciow¹
+d) Sztuczn¹ sieæ neuronów czuciowych
+
+X0010
+18. W analogowym bloku uzyskiwania wyniku pomiaru:
+a) Sygna³ jest dopasowany energetycznie
+b) Sygna³ jest dopasowany czasowo
+c) Sygna³ jest przetwarzany zgodnie z definicj¹ wielkoœci mierzonej
+d) Sygna³ jest przetwarzany proporcjonalnie do wartoœci skutecznej
+
+X0001
+19. Najprostszy przetwornik pr¹du na napiêcie wykorzystuje:
+a) zasadê zachowania energii
+b) zasadê nieoznaczonoœci
+c) prawo Kirchoffa
+d) prawo Ohma
+
+X0010
+20. Przetwornik wartoœci szczytowej wykorzystuje efekt:
+a) Prostowania jednopo³ówkowego przez diodê pó³przewodnikow¹
+b) Prostowania dwupo³ówkowego przez diodê pó³przewodnikow¹
+c) £adowania kondensatora przez diodê pó³przewodnikow¹
+d) £adowania woltomierza przez diodê pó³przewodnikow¹
